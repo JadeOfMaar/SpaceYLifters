@@ -1,0 +1,14 @@
+ChangeLog
+
+	Unofficial fork by Linuxgurugamer
+	Fixed scaling of the SpaceY A2-IX "Rosette" Interstage Thrust Plate
+		(reported by github user @zhangyuesai in parent repo Aug 7, 2024)
+	Fixed decoupler staging names
+	Update syl-docking3m.cfg
+	Missing parameter for node_attach
+		Based on bug report from @ashton-01 to the parent archive on Jul 10, 2024
+	
+	Merged pull request #1 from zhangyuesai/master
+		Adds Chinese localization
+	Update ghostparts.cfg, Puts the mod name into the patch correctly
+	
