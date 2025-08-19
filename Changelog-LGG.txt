@@ -11,4 +11,5 @@ ChangeLog
 	Merged pull request #1 from zhangyuesai/master
 		Adds Chinese localization
 	Update ghostparts.cfg, Puts the mod name into the patch correctly
+	Deleted bad oldName line in  SpaceY/SpaceYLifters/Parts/ThrustPlates/syl-plate-125-0625-X1.cfg
 	
