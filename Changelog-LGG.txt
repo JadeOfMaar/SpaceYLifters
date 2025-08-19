@@ -1,5 +1,6 @@
 ChangeLog
 
+2.0.0
 	Unofficial fork by Linuxgurugamer
 	Fixed scaling of the SpaceY A2-IX "Rosette" Interstage Thrust Plate
 		(reported by github user @zhangyuesai in parent repo Aug 7, 2024)
