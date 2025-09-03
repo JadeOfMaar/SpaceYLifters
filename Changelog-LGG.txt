@@ -21,3 +21,6 @@ ChangeLog
 
 2.0.0.3
 	Updated mass, cost, liquid fuel, oxidizer values based on actual volume
+
+2.0.0.4
+	Adjusted the B9PartSwitch.cfg to have LFO has the first/default subtype, and moved structural to the end
