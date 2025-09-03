@@ -13,6 +13,11 @@ ChangeLog
 		Adds Chinese localization
 	Update ghostparts.cfg, Puts the mod name into the patch correctly
 	Deleted bad oldName line in  SpaceY/SpaceYLifters/Parts/ThrustPlates/syl-plate-125-0625-X1.cfg
-	
-2.0.0.1
+
+2.0.0.2
+	Thanks to github user @aitorprado for these:
+		Spanish translation
+		Fixed KGXSupport and KGXH2Ow tank types not found
+
+2.0.0.3
 	Updated mass, cost, liquid fuel, oxidizer values based on actual volume
