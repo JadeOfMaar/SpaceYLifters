@@ -30,3 +30,4 @@ ChangeLog
 	Removed the SpaceY.Lifters.dll as being unnecessary
 	Removed restricted files added by @zer0kerbal
 	Merged in SpaceYCorp files to eliminate the need to install an additional mod
+	Added support for PatchManager to enable the Ghostparts config to allow compatibility with old craft files
